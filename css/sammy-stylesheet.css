@@ -1,0 +1,44 @@
+/* Color Palette
+#2B2D42 - dark blue
+#8D99AE - light blue
+#EDF2F4 - blue/white
+#EF233C - red
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    background: lightblue;
+    text-align: left;
+    
+}
+
+#page-wrap{
+
+	text-align: left;
+	width: 800px;
+	margin: 0 auto;
+}
+
+h1{
+    color: white;
+}
+p.headerColor, h1.headerColor, h2.headerColor{
+    color: white;
+}
+
+
+/* Header & Footer 
+------------------------------------*/
+header, footer {
+    background: grey;
+
+}
+
+
+/* Work Experience
+------------------------------------*/
+
+
+
+/* Education
